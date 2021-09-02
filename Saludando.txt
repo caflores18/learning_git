@@ -5,3 +5,5 @@ Alejandro Flores, esta aprendiendo a usar Git de una manera mas profesional.
 Usando Git.
 
 Aqui vamos a conocer mas a fondo la funcionalidad del rebase.
+Cambio solo local.
+
