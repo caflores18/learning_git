@@ -3,3 +3,5 @@ Hola buenas noches, el día de hoy es miércoles 4 de Agosto del 2021.
 Escrito por:
 Alejandro Flores, esta aprendiendo a usar Git de una manera mas profesional.
 Usando Git.
+
+Aqui vamos a conocer mas a fondo la funcionalidad del rebase.
