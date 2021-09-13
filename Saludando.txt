@@ -10,3 +10,4 @@ Aqui vamos a conocer mas a fondo la funcionalidad del rebase.
 Master 1. Aprendiendo rebase.
 Experimento uno.
 Que se note el cambio si señor.
+Voy avanzando en el curso de git en la clase: 38/43
